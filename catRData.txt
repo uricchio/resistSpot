@@ -1,0 +1,17 @@
+category assignment positive
+disciplinary_content RSA 0.7684210526315789
+disciplinary_content SA 1.0
+researcher_identity_labels RSA 0.15625
+researcher_identity_labels SA 0.01818181818181818
+student_identity_labels RSA 0.08333333333333333
+student_identity_labels SA 0.0
+connections_personal_experiences RSA 0.34375
+connections_personal_experiences SA 0.37037037037037035
+actions_planned_or_taken RSA 0.125
+actions_planned_or_taken SA 0.09090909090909091
+disciplinary_values_self RSA 0.71875
+disciplinary_values_self SA 0.6
+disciplinary_values_researcher.s_ RSA 0.5208333333333334
+disciplinary_values_researcher.s_ SA 0.3090909090909091
+critical_consideration_power RSA 0.7083333333333334
+critical_consideration_power SA 0.05454545454545454
